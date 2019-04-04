@@ -1,0 +1,14 @@
+C:\Users\Eddie\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.frmCollege.resources
+C:\Users\Eddie\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.Resources.resources
+C:\Users\Eddie\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.vbproj.GenerateResource.cache
+C:\Users\Eddie\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.vbproj.CoreCompileInputs.cache
+C:\Users\Eddie\source\repos\CollegeRegistration\CollegeRegistration\bin\Debug\frmCollege.resx
+C:\Users\Eddie\source\repos\CollegeRegistration\CollegeRegistration\bin\Debug\frmCollege.vb
+C:\Users\Eddie\source\repos\CollegeRegistration\CollegeRegistration\bin\Debug\frmCollege.Designer.vb
+C:\Users\Eddie\source\repos\CollegeRegistration\CollegeRegistration\bin\Debug\CollegeRegistration.exe.config
+C:\Users\Eddie\source\repos\CollegeRegistration\CollegeRegistration\bin\Debug\CollegeRegistration.exe
+C:\Users\Eddie\source\repos\CollegeRegistration\CollegeRegistration\bin\Debug\CollegeRegistration.pdb
+C:\Users\Eddie\source\repos\CollegeRegistration\CollegeRegistration\bin\Debug\CollegeRegistration.xml
+C:\Users\Eddie\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.exe
+C:\Users\Eddie\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.xml
+C:\Users\Eddie\source\repos\CollegeRegistration\CollegeRegistration\obj\Debug\CollegeRegistration.pdb

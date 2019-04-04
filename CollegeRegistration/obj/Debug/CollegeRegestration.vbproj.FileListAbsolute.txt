@@ -1,0 +1,4 @@
+C:\Users\Eddie\source\repos\CollegeRegestration\CollegeRegestration\obj\Debug\CollegeRegestration.frmCollege.resources
+C:\Users\Eddie\source\repos\CollegeRegestration\CollegeRegestration\obj\Debug\CollegeRegestration.Resources.resources
+C:\Users\Eddie\source\repos\CollegeRegestration\CollegeRegestration\obj\Debug\CollegeRegestration.vbproj.GenerateResource.cache
+C:\Users\Eddie\source\repos\CollegeRegestration\CollegeRegestration\obj\Debug\CollegeRegestration.vbproj.CoreCompileInputs.cache
